@@ -1,14 +1,24 @@
 # [멋쟁이사자처럼 프론트엔드스쿨 6기] 롤링페이퍼
 
-## 1. 팀 소개 (회고 6조 - 자유롭조)
+## 1. 프로젝트 및 팀 소개
+
+### 1-1. 프로젝트 팀: 회고 6조 -자유롭조
 
 ![Image](https://github.com/dani-day/git-test/assets/134567470/c737cf96-77f5-4d63-96f7-78aa67d62afd)
 
-### 1-1. 프로젝트 기간
+### 1-2. 사용 기술
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
+<img src="https://img.shields.io/badge/pocketbase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=white">
+<img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+
+### 1-3. 프로젝트 기간
 
 8월 22일 (화) ~ 8월 27일 (일)
 
-### 1-2. 역할분담
+### 1-4. 역할분담
 
 **기획 및 디자인**
 
@@ -23,7 +33,7 @@
 - 현주: 편지 작성/확인 선택 페이지, 편지 리스트 페이지
 - 소희: 받는이 선택 페이지
 
-### 1-3. 한줄소감
+### 1-5. 한줄소감
 
 **고수완**
 
