@@ -125,6 +125,7 @@
 ### 3-8. 봉투 선택
 
 ![Image](https://github.com/dani-day/git-test/assets/134567470/1df14424-24b8-4173-a618-7e8c273ede59)
+![Image](https://github.com/dani-day/git-test/assets/134567470/601d7049-709c-4d06-bf97-e6f32bf596d2)
 
 - [x] openweathermap API 를 연결하여, 멋쟁이사자처럼 본사 위치의 현재 기온을 불러옵니다.
 - [x] 기온 구간 별로 봉투 색깔을 다르게 설정합니다. (총 색상 7가지)
