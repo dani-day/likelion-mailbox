@@ -6,7 +6,7 @@
 
 ### 1-1. 프로젝트 팀: 회고 6조 -자유롭조
 
-![Image](https://github.com/dani-day/git-test/assets/134567470/c737cf96-77f5-4d63-96f7-78aa67d62afd)
+<img src="/src/images/readme/ImFree.gif">
 
 ### 1-2. 사용 기술
 
@@ -71,7 +71,7 @@
 
 - **피그마 시안**: https://www.figma.com/file/Eqr5T4YguikgMPJBpS7Xn2/lion-mailbox?type=design&node-id=0%3A1&mode=design&t=dmIrSxAzSOoiX1M6-1
 
-![Image](https://github.com/dani-day/git-test/assets/134567470/bfcf0052-2427-411a-b277-ce5a763f037d)
+<img src="/src/images/readme/WireFrame.png">
 
 ---
 
@@ -82,27 +82,27 @@
 
 ### 3-1. 홈
 
-![Image](https://github.com/dani-day/git-test/assets/134567470/e9e4f18a-054f-43dd-987c-8d254fdfb161)
+<img src="/src/images/readme/Home.png">
 
 - [x] 편지쓰기 버튼을 클릭하면 로그인 페이지로 이동합니다.
 
 ### 3-2. 로그인
 
-![Image](https://github.com/dani-day/git-test/assets/134567470/8467e887-77a3-4884-bad1-2256ddf88cf3)
+<img src="/src/images/readme/SignIn.png">
 
 - [ ] 아이디, 비밀번호 입력 완료 시, 로그인됩니다.
 - [ ] 회원가입 링크 선택 시, 회원가입 페이지로 이동됩니다.
 
 ### 3-3. 회원가입
 
-![Image](https://github.com/dani-day/git-test/assets/134567470/51e0c4a9-b2c9-499c-98e0-bb52e539a6bb)
+<img src="/src/images/readme/SignUp.png">
 
 - [x] 이름, 이메일, 비밀번호 정규식 확인 완료 시, 회원가입이 완료됩니다.
 - [x] 회원가입 데이터가 포켓베이스에 create 됩니다.
 
 ### 3-4. 편지 작성/확인 선택
 
-![Image](https://github.com/dani-day/git-test/assets/134567470/9c631531-2676-4e97-9ce8-f1a9ab39f4cf)
+<img src="/src/images/readme/SelectPage.png">
 
 - [x] 메세지 작성 또는 메세지 확인 페이지로 이동합니다.
       <br>
@@ -110,7 +110,7 @@
 
 ### 3-5. 받는이 선택
 
-![Image](https://github.com/dani-day/git-test/assets/134567470/76bcb4f6-fb42-4214-9dcb-ca38830e91ca)
+<img src="/src/images/readme/SelectLion.png">
 
 - [x] 포켓베이스에서 회원가입 리스트를 가져옵니다.
 - [x] 회원가입된 받는이 리스트를 랜더링합니다.
@@ -119,7 +119,7 @@
 
 ### 3-6. GIPHY 우표 선택
 
-![Image](https://github.com/dani-day/git-test/assets/134567470/b6b9a89c-1d47-49fe-847a-9ceedfdfb70c)
+<img src="/src/images/readme/SelectStamp.png">
 
 - [x] GIPHY API 를 연결합니다.
 - [x] 선택한 GIPHY url 을 (사전에 지정된) 포켓베이스 데이터에 update 합니다.
@@ -130,7 +130,7 @@
 
 ### 3-7. 편지 작성
 
-![Image](https://github.com/dani-day/git-test/assets/134567470/ae5743a9-94db-4e26-9127-a5e0fa5e4afc)
+<img src="/src/images/readme/WriteCard.png">
 
 - [x] 편지 내용을 작성할 수 있습니다.
 - [x] 작성된 편지 데이터를 포켓베이스로 전송합니다.
@@ -140,8 +140,7 @@
 
 ### 3-8. 봉투 선택
 
-![Image](https://github.com/dani-day/git-test/assets/134567470/1df14424-24b8-4173-a618-7e8c273ede59)
-![Image](https://github.com/dani-day/git-test/assets/134567470/601d7049-709c-4d06-bf97-e6f32bf596d2)
+<img src="/src/images/readme/SelectEnvelope.png">
 
 - [x] openweathermap API 를 연결하여, 멋쟁이사자처럼 본사 위치의 현재 기온을 불러옵니다.
 - [x] 기온 구간 별로 봉투 색깔을 다르게 설정합니다. (총 색상 7가지)
@@ -150,7 +149,7 @@
 
 ### 3-9. 편지 리스트
 
-![Image](https://github.com/dani-day/git-test/assets/134567470/308b427e-37eb-4db9-9e67-7c3297fb5932)
+<img src="/src/images/readme/ShowCardList.png">
 
 - [x] (사전에 지정된) 포켓베이스 아이디가 받은 편지 목록을 랜더링합니다.
 - [x] 편지 작성 시 확정되었던 봉투색깔을 랜더링합니다.
@@ -160,6 +159,6 @@
 
 ### 3-10. 편지 확인
 
-![Image](https://github.com/dani-day/git-test/assets/134567470/f0b70178-27f6-4d69-8a29-eda3fa30dc62)
+<img src="/src/images/readme/ViewCard.png">
 
 - [x] (사전에 지정된) 편지 내용, 편지 gif, 보낸이, 받는이가 랜더링됩니다.
